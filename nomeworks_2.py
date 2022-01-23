@@ -1,20 +1,4 @@
-import time
 
-
-# yolochka_1 = 0
-# print(type(yolochka_1), yolochka_1)
-#
-# kot_1 = "MYRZ"
-#
-# i_1 = 0
-# i_2 = 10
-# I_2 = 3
-# i_3 = 7
-# i_4 = 22
-# i_5 = 159
-#
-# ii = i_2 + I_2
-# print('ii =', ii )
 
 
 
